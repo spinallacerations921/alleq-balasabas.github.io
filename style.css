@@ -1,0 +1,124 @@
+body {
+    background-color: pink;
+    font-family: Georgia;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: #A94064;
+}
+
+h2 {
+    color: #CE6F89;
+    font-size: 25px;
+}
+
+h3 {
+    color: #CE6F89;
+    font-size: 30px;
+}
+
+h4 {
+    color: #CE6F89;
+    font-size: 25px;
+}
+
+table {
+    max-width: 100%;
+    margin: auto;
+}
+
+.whitebox p, ol, ul, h4 {
+    max-width: 1000px;
+    font-size: 28px;
+    margin: auto;
+    background-color: white;
+    color: #CE6F89;
+    padding: 45px;
+    text-align: justify;
+  }
+
+.whiteboximg p {
+    max-width: 1200px;
+    text-align: center;
+    padding: 25px;
+}
+
+.boxdesc p {
+    max-width: 600px;
+    padding: 20px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.list {
+	list-style-type: decimal;
+	line-height: 2;
+	text-align: left;
+}
+
+a {
+    color: #A94064;
+}
+
+a:hover {
+    color: #ef8ca6;
+}
+
+a:visited {
+    color: #ef8ca6;
+}
+
+.lpscimedia {
+    border: 5px solid #A94064;
+    opacity: 1;
+    max-width: 750px;
+    height: auto;
+    transition: .5s ease;
+    backface-visibility: hidden;
+}
+
+.mediabigger {
+    max-width: 1000px;
+}
+
+.alleq {
+    width: 400px;
+    height: auto;
+}
+
+.lpsciname {
+    background-color: white;
+    color: #CE6F89;
+    font-size: 30px;
+    padding: 16px 52px;
+}
+
+.boxtext {
+    transition: .5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    -ms-transform: translate(-50%, 50%);
+}
+
+.container {
+    position: relative;
+    width: 750px;
+    margin: auto;
+}
+
+.container:hover .lpscimedia {
+    opacity: 0.5;
+}
+
+.container:hover .boxtext {
+    opacity: 1;
+}
+
+.reflectionbox {
+    line-height: 40px;
+}

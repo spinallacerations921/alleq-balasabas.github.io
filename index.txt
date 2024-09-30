@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta charset="UTF-8">
+<title>
+  ⟡ Balasabas · 9 Faith · 1st QTR Portfolio ⟡
+</title>
+<link rel="stylesheet" href="AlleqBalasabas_E-Portfolio.css">
+</head>
+<body>
+
+<h1>
+  ——· My 1st Quarter Portfolio ·——
+</h1>
+
+<h2>
+  ●・ <i>Alleq Balasabas - 9 Faith</i> ・●
+</h2>
+
+<br>
+<hr noshade color="#A94064" size="4px" width="auto">
+<br>
+
+<br>
+
+<div class="container">
+<img class="lpscimedia" src="media/LPSCIJULY.png" alt="LPSCI field as of July 2024">
+<div class="boxtext">
+<div class="lpsciname"> Las Piñas City National Science High School (LPSCI)
+</div>
+</div>
+</div>
+
+<h2>
+<i>
+— —· School Year 2024 - 2025 ·— —
+</i>
+</h2>
+
+<br>
+<hr noshade color="#A94064" size="4px" width="auto">
+<br>
+
+<h3>
+  *:･ﾟ ABOUT ME *:･ﾟ
+</h3>
+
+<br><br>
+
+<div class="whitebox">
+<p>
+  Welcome to my E-Portfolio! My name is <b>GB Alleq V. Balasabas</b>, 
+  and as of now I am currently 14-years-old in grade 9 at  as of this year's batch (2024), 
+  and I am currently learning at <i>Las Piñas City National Science High School</i>, 
+  or simply known as LPSci.
+</p>
+</div>
+
+<br><br>
+<div id="TOC">
+<img class="alleq" src="media/gb-alleq.jpg" alt="Portrait of 'Gb Alleq Balasabas'">
+</div>
+<br><br>
+
+<div class="whitebox">
+<p>
+  Now, let me introduce to you about a little about me that you might find interesting!
+<br><br> - - - ||
+</p>
+<ol><h4> · TOP 3 FAVORITE ARTISTS <i>(w/ my fav song below for each)</i>  </h4>
+<li> Kendrick Lamar - DUCKWORTH. </li>
+<ul>
+<audio controls>
+<source src="media/duckworth-audio.mp3" type="audio/mp3">
+</audio>
+</ul>
+<li> Tyler, The Creator - ARE WE STILL FRIENDS? </li>
+<ul>
+<audio controls>
+<source src="media/arewestillfriends-audio.mp3" type="audio/mp3">
+</audio>
+</ul>
+<li> Kali Uchis - Moonlight </li>
+<ul>
+<audio controls>
+<source src="media/moonlight-audio.mp3" type="audio/mp3">
+</audio>
+</ul>
+</ol>
+<table>
+<tr>
+<td>
+<br><br>
+<ul><h4> · LIKES </h4>
+<li> Biking </li>
+<li> Notetaking </li>
+<li> Video Editing </li>
+<li> Coding </li>
+</ul>
+</td>
+<td>
+<br><br>
+<ul><h4> · DISLIKES </h4>
+<li> Reviewing </li>
+<li> Problem Solving </li>
+<li> Cramming </li>
+<li> Late Sleeping </li>
+<br><br><br>
+</ul>
+</td>
+</tr>
+</table>
+<br><br><br>
+<ul type="square"><h4> · PERSONAL TRIVIA FACTS </h4>
+<li> Except for grade 1, the elementary school I enrolled and stayed at was
+   South Learners' Creative School, better known as "SLCS". </li>
+<br>
+<li> My most favorite food in Jollibee used to be shanghai, 
+  up until it was phased out by the franchise. </li>
+<br>
+<li> The first part of my first name, 
+  "Gb", came from my grandfather of my father's side, 
+  whose name is <b>G</b>ual<b>b</b>erto. </li>
+<br>
+</ul>
+<p> - - - || </p>
+</div>
+
+<br><br><br><br>
+
+<div class="whitebox">
+<p>
+  The following content below contains all first quarter TLE/ICT lessons and my HTML code with output corresponded for each of them, 
+  as well as my activities, quizzes, worksheets, and pairworks throughout the weeks, 
+  along with my lengthy, yet heartwarming relfection that summarizes all of my thoughts, feelings, and overall opinions for TLE/ICT so far
+  and the rest that happened this quarter.
+</p>
+<ol class="list">
+<b>TABLE OF CONTENTS:</b>
+<br><br>
+<li><a href="#lesson"> Lessons and HTML Codes with Outputs </a></li>
+<ul>
+<li> Lessons 1 to 9 with HTML Applications ⟡ </li>
+</ul>
+<li><a href="#acts"> School Activities </a></li>
+<ul>
+<li> Activities ⋆ </li>
+<li> A Worksheet ꣑ৎ </li>
+<li> Pairworks ✦ </li>
+</ul>
+<li><a href="#reflection"> TLE/ICT 1st Quarter Reflection </a></li>
+<ul>
+<li> Personal recounts and collections of thoughts about the 1st quarter of TLE/ICT ✧ </li>
+</ul>
+</ol>
+<p>
+  𓈒⟡₊⋆∘ This portfolio has a lot to bring, so sit back, relax,<br> and <u>enjoy viewing my works!</u> :)
+<br><br>
+</p>
+</div>
+
+<br><br><br><br>
+
+<br>
+<hr noshade color="#A94064" size="4px" width="auto">
+<br>
+
+<h3 id="lesson">
+  *:･ﾟ LESSONS & HTML OUTPUTS *:･ﾟ
+</h3>
+
+<br>
+
+<h1> LESSON #1 </h2>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>XHTML</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson1.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson1-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<br><br><br><br>
+
+<h1> LESSON #2 </h2>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>LISTS</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson2.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson2-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<br><br><br><br>
+
+<h1> LESSON #3 </h2>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>TABLES NO. 1</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson3.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson3-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<br><br><br><br>
+
+<h1> LESSON #4 </h2>
+
+<br><br><br><br>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>TABLES NO. 2</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson4.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson4-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<h1> LESSON #5 </h2>
+
+<br><br><br><br>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>HYPERLINKS</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson5.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson5-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<h1> LESSON #6 </h2>
+
+<br><br><br><br>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>FORMS NO. 1</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson6.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson6-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<h1> LESSON #7 </h2>
+
+<br><br><br><br>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>FORMS NO. 2</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson7.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson7-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<h1> LESSON #8 </h2>
+
+<br><br><br><br>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>FORMS NO. 3</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson8.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson8-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<h1> LESSON #9 </h2>
+
+<br><br><br><br>
+
+<div class="whitebox whiteboximg">
+<p>
+<br>
+  <b>CSS</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/browser-lesson9.png" alt="Forbidden Attribute Minimization">
+</p>
+<p>
+  <b>APPLICATION OF LESSON:</b>
+<br><br>
+<img class="lpscimedia mediabigger" src="media/lesson9-output.png" alt="Output for Lesson 1">
+<br><br>
+</p>
+</div>
+
+<br><br><br><br><br><br><br>
+<a href="#TOC">
+<h3>
+  *:･ﾟ -- GO BACK -- *:･ﾟ
+</h3>
+</a>
+<br><br><br>
+
+<br>
+<hr noshade color="#A94064" size="4px" width="auto">
+<br>
+
+<h3 id="acts">
+  *:･ﾟ ASYNCHRONOUS & HANDS-ON *:･ﾟ
+</h3>
+
+<br><br>
+
+<div>
+<img class="lpscimedia" src="media/q1_activity1.png" alt="1st Quarter - Activity #1">
+<div class="whitebox boxdesc">
+<p> 
+  <i>
+  Activity #1
+  <br>
+  Total Score: 3/5
+  <br>
+  August 2, 2024
+  </i>
+</p>
+</div>
+</div>
+
+<br><br><br><br><br><br>
+
+<div>
+<img class="lpscimedia" src="media/q1_worksheet1.png" alt="1st Quarter - Worksheet #1">
+<div class="whitebox boxdesc">
+<p> 
+  <i>
+  Worksheet #1
+  <br>
+  September 4, 2024
+  </i>
+</p>
+</div>
+</div>
+
+<br><br><br><br><br><br>
+
+<div>
+<video class="lpscimedia" controls>
+<source src="media/pw1-sample2.mp4" type="video/mp4">
+</video>
+<div class="whitebox boxdesc">
+<p> 
+  <i>
+  Pairwork #1 Lesson 7 - 2nd Sample
+  <br>
+  9/9 +1
+  <br>
+  September 9, 2024
+  </i>
+</p>
+</div>
+</div>
+
+<br><br><br><br><br><br>
+
+<div>
+<video class="lpscimedia" controls>
+<source src="media/pw2-sample1.mp4" type="video/mp4">
+</video>
+<div>
+<video class="lpscimedia" controls>
+<source src="media/pw2-sample3.mp4" type="video/mp4">
+</video>
+<div class="whitebox boxdesc">
+<p> 
+  <i>
+  Pairwork #2 Lesson 8 - 1st & 3rd Sample
+  <br>
+  9/9 +1
+  <br>
+  September 10, 2024
+  </i>
+</p>
+</div>
+</div>
+</div>
+
+<br><br><br><br><br><br>
+
+<div>
+<video class="lpscimedia" controls>
+<source src="media/surveyform-activity.mp4" type="video/mp4">
+</video>
+<div class="whitebox boxdesc">
+<p> 
+  <i>
+  Activity #2
+  <br>
+  September 12, 2024
+  </i>
+</p>
+</div>
+</div>
+
+<br><br><br>
+<a href="#TOC">
+<h3>
+  *:･ﾟ -- GO BACK -- *:･ﾟ
+</h3>
+</a>
+<br><br><br>
+
+<br>
+<hr noshade color="#A94064" size="4px" width="auto">
+<br>
+
+<h3 id="reflection">
+  *:･ﾟ REFLECTION *:･ﾟ
+</h3>
+
+<br>
+
+<div class="whitebox reflectionbox">
+<p>
+  Entering LPSci for grade 9, I felt a bit of uncertainty as for what this next grade would be for the entire school year.
+  Unlike the previous times where I already had expectations and goals set for the upcoming grade, 
+  I spent most of my time to not only be at peace during vacation, 
+  but also focus more on taking care of myself to prepare for yet another routine of weekly classes with short breaks in between.
+<br><br>
+  Although I did not worry too much about what 1st quarter was gonna bring, 
+  I was and still am certainly shocked at how it turned out. For one, 
+  I was pleasantly surprised to meet <b>Ms. Uminga</b> first-hand at class.
+  From short accounts I've heard of people, I assumed a kind, laid-back, and reserved soul that brings wisdom to the class every now and then when she has the chance.
+  However, that doesn't mean that the true person she is isn't just as wonderful.
+  <br>
+  To be forgiving and time-considerate to students is amazing.
+  To be engaging, fun, but also hold authority towards the class is spectacular.
+  But to be both and also be respected as a soulful teacher? 
+  That takes a level of diligence, patience, and humility that most dream to become. Truly, Ms. Uminga is an incredible, capable soul whom I aspire to learn from more throughout the next three quarters.
+  <br><br>
+  As for the performance tasks, class projects, and general experiences that I encountered during <b>1st quarter</b>,
+  I am glad to say that all went smooth for the most part. I ran into looming roadblocks that I eventually overcame,
+  disputes that stirred unwanted issues, wifi problems that made me lose all hope for PLDT,
+  and tantrums I caused over problems I barely had control over. But through the thick of it all,
+  it was inevitably those situations and my decisions that got me here today, still standing strong.
+  <br>
+  Shout out to all my few friends and lovely family! They have definitely been a part of aiding me through my worst,
+  And they deserve the recognition for the kind support they have so graciously gave, 
+  No matter how flawed or imperfect they are. Without them, I wouldn't be so sure I'd be in as much of a great state as I am right now.
+  <br><br>
+  <b>Ultimately</b>, this 1st quarter has been the most confusing, yet powerful 2 months that I have yet to understand.
+  Maybe it's all in my head, or perhaps it's something more. In such a short span of time, lots of memorable moments happened,
+  and it had me rethink the mundane vision that I thought it would be. Maybe after all more will be coming this school year.
+  Maybe this will be just as much, if not more impactful to my life than it would seem, 
+  Maybe this time, I will push through once more, and better than ever before.
+
+</p>
+</div>
+
+<br><br><br>
+<a href="#TOC">
+<h3>
+  *:･ﾟ -- GO BACK -- *:･ﾟ
+</h3>
+</a>
+<br><br><br>
+
+<br>
+<hr noshade color="#A94064" size="4px" width="auto">
+<br><br>
+
+<h1>
+  —· <i>Thank you for viewing!!!</i> ·—
+</h1>
+<br>
+<h1>
+  ✦✧✦✧・══✿═╡°˖✧✿✧˖°╞═✿══・✦✧✦✧
+</h1>
+
+<br><br>
+
+</body>
+</html>
